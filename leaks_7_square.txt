@@ -1,0 +1,22 @@
+Square access token
+
+# This will match
+sq0atp-WrF2m45lEzQVzCqAxSA_oA
+sq0atp-on5KcHDr0dhlbefU0EwVwg
+
+#This will not match
+qasasq0atp-on5KcHDr0dhlbefU0EwVwg
+sq0atp-on5KcHDr0dhlbefU0EwVwgfefejjdks
+
+
+
+
+Square OAuth Secret
+
+# This will match
+sq0csp-4KnbcED665wDZ_sDYIN8E9scnYiJGqm4xxdnYtgxSKM
+
+
+# This will not match
+Asq0csp-4KnbcED665wDZ_sDYIN8E9scnYiJGqm4xxdnYtgxSKM
+sq0csp-4KnbcED665wDZ_sDYIN8E9scnYiJGqm4xxdnYtgxSKM$
