@@ -1,0 +1,12 @@
+some random texts
+
+=============== GIT LAB TOKEN ==================
+
+#This will match
+gitlab_token : 'ghp_xsgCfVeH2seDJ9Xp3mKUMvA1kACBgG42IYBj'
+ghp_xsgCfVeH2seDJ9Xp3mKUMvA1kACBgG42IYBj
+
+#This will not match
+gitlab_taken : 'ghp_xsgCfVeH2seDJ9Xp3mKUMvA1kACBgG42IYBjdsgdsjdshjdsjdshj
+ghp_xsgCfVeH2seDJ9Xp3mKUMvA1kACBgG42IYBjadsadaas
+thiswillnotworkghp_xsgCfVeH2seDJ9Xp3mKUMvA1kACBgG42IYBj
