@@ -7,10 +7,23 @@ dsdsds
 dsds
 File has AWS Access key
 dsds
+This will match
 DeNK6FdSvp5h5YHotROmtAfpDdXg7fjDpqyqHLdRIEmWeOl AKIA3G72ID2XZTIDJBVM kdsjndskdfkjdskjsd
 
 6EwP9xfGEhVvEKnyfCszD8PLDECyiCXaSqdckwj0p0CAiV3kcoYQRxasbzr
 
-
-sdhs AKIA3G72ID2XZTIDJBVM sfdsfds
+#This will not match
+sdhsAKIA3G72ID2XZTIDJBVMsfdsfds
 Zq0j60Pe8sgMbeePeV5KuZxAq6YmfY8yH9PJjD1KSsEy0AA8IdHCxMKP8fDVGCYHTMVZTe
+
+AIzadjdhdjdhdjdhdjddjddjkskskkskskskskf
+
+
+================== AWS MWS key ==========================
+#This will match
+amzn.mws.98bd1a77-4d2a-449f-ba49-0ee299e3fcfa
+mws_key = "amzn.mws.98bd1a77-4d2a-449f-ba49-0ee299e3fcfa",
+
+# This will not match
+mws_key = "amzn.mws.98bd1a77-4d2a-449f-ba49-0ee299e3fcfaaaasassasa"
+AAAAAAAamzn.mws.98bd1a77-4d2a-449f-ba49-0ee299e3fcfaAAAAAAAAA
